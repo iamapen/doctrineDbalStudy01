@@ -1,5 +1,8 @@
 {
     "require-dev": {
         "phpunit/phpunit": "^8.5"
+    },
+    "require": {
+        "doctrine/dbal": "^2.0"
     }
 }
